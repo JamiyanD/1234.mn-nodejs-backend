@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Amaraa",
+        "email": "amaraa@gmail.com",
+        "role": "admin",
+        "password": "12345678"
+    },
+    {
+        "name": "Saraa",
+        "email": "saraa@gmail.com",
+        "role": "operator",
+        "password": "12345678"
+    },
+    {
+        "name": "Boldoo",
+        "email": "boldoo@gmail.com",
+        "role": "user",
+        "password": "12345678"
+    }
+]
